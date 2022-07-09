@@ -6,9 +6,7 @@
 
 # About 
 
-This Roblox Exploit Is A Cheat For 
-
-https://www.roblox.com/games/112420803/Kohls-Admin-House-NBC
+This Roblox Exploit Is A Cheat For [Khols admin house](https://www.roblox.com/games/112420803/Kohls-Admin-House-NBC)
 
 this script can also be executed with any executor.
 
@@ -32,3 +30,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/4gh9/Khols-admin-scri
 <img src="https://i.ibb.co/p4zjvmY/image.png" />
 
 ---
+
+## License
+
+© Dex LLC, 2022. Unauthorized use and/or duplication of this material without permission from Dex is strictly prohibited.
+
+This code is licensed under the **Boost Software License 1.0**.
+
+> You can view the full licence [here](https://github.com/4gh9/Khols-admin-script/blob/main/LICENSE)!
