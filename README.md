@@ -33,8 +33,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/4gh9/Khols-admin-scri
 
 ## License
 
-© Dex LLC, 2022. Unauthorized use and/or duplication of this material without permission from Dex is strictly prohibited.
+Unauthorized use and/or duplication of this material without permission from 4gh9 is strictly prohibited.
 
 This code is licensed under the **Boost Software License 1.0**.
 
 > You can view the full licence [here](https://github.com/4gh9/Khols-admin-script/blob/main/LICENSE)!
+
+---
