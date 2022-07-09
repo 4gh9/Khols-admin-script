@@ -19,7 +19,7 @@ And This Script Has Many Options And Features
 
 You Can Use This Script With This Loadstring.
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/4gh9/vexhub/main/Protected.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4gh9/Khols-admin-script/main/khols%20admin%20script..lua", true))()
 ```
 
 ---
